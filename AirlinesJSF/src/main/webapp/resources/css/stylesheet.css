@@ -1,0 +1,9 @@
+#page {height:680px; width:1000px; margin:0 auto}
+
+#customer-container {height:200px; background: #e6e6ff}
+
+#pizza-container {height:50px; margin:0; display: inline-block;}
+
+#content-container {height:100%; margin:0 float:left; background: #ccfff5; width:700px;  height:100%; margin:0}
+
+#action-container {float:right; background: #eeeeec; width:300px;  height:100%; margin:0}
